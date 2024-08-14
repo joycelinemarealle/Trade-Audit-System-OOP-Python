@@ -1,9 +1,9 @@
+
+
 # Trade-Audit-System-OOP-Python
-Developed a Python-based trade auditing system for a brokerage firm, utilizing Object-Oriented principles and TDD, to accurately model and process daily stock trades and generate end-of-day financial summaries.
+SUMMARY:For this project, I developed a Python-based trade auditing system for a brokerage firm, utilizing Object-Oriented principles and TDD, to accurately model and process daily stock trades and generate end-of-day financial summaries.
 
-Project: Object-Oriented Python
-
-Background
+PROJECT DETAILS: Background
 A brokerage firm undertakes many different types of trades on a daily basis, some of them being:
 Stock trades
 Bond trades
